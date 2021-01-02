@@ -6,7 +6,7 @@ Binarize the image.
 ## Installation
 
 ```sh
-$ go get -u github.com/kyo1/threshold
+$ go install github.com/kyo1/threshold
 ```
 
 
